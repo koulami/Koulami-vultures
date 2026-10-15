@@ -1,0 +1,10 @@
+{
+  "name": "BoundPad - Actionbound & Padlet Interactive Team Arena",
+  "description": "Διαδραστική πλατφόρμα αποστολών και παιχνιδιών τύπου Actionbound & Padlet με ζωντανές στήλες ομάδων, κουίζ, QR, παζλ, κοινόχρηστη οθόνη και χρονόμετρο.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
